@@ -8,7 +8,7 @@ Ball-by-ball data set generated out of the commentary data scraped for every mat
 
 ### Process followed
 The file to be run is ```script.py```.
-It uses Beautiful Soup, Requests and Selenium with Chrome webdriver to scrape text commentary from [the official ICC site for the CWC 2019](https://www.cricketworldcup.com/)
+It uses Beautiful Soup, Requests and Selenium with Chrome webdriver to scrape text commentary from [the official ICC site for the CWC 2019](https://www.cricketworldcup.com/).
 The following data is fetched from the commentary:
 - Ball and over number
 - Runs scored or wicket in that ball
@@ -19,5 +19,5 @@ The following data is fetched from the commentary:
 - Following features need to be or can be fetched: batsman, bowler, speed of the ball, type of ball, length of the ball, type of dismissal
 - Analyzing and understanding the data and providing visualization and easy way of fetching data using filters
 
-All data is available as published in [the official ICC site for the CWC 2019](https://www.cricketworldcup.com/)
-No part of this project will be used for commercial purposes and will solely be used for academic purposes
+All data is available as published in [the official ICC site for the CWC 2019](https://www.cricketworldcup.com/).
+No part of this project will be used for commercial purposes and will solely be used for academic purposes.
