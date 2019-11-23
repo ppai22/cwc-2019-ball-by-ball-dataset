@@ -20,4 +20,4 @@ The following data is fetched from the commentary:
 - Analyzing and understanding the data and providing visualization and easy way of fetching data using filters
 
 All data is available as published in [the official ICC site for the CWC 2019](https://www.cricketworldcup.com/).
-No part of this project will be used for commercial purposes and will solely be used for academic purposes.
+No part of this project will be used for commercial purposes by me and will solely be used for academic purposes.
